@@ -1,2 +1,4 @@
 setup project structure
 core feature implemented
+ui layout added
+ui layout added
