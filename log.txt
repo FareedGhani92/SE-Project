@@ -6,3 +6,4 @@ ui improvements
 backend logic added
 bug fixes
 documentation added
+testing added
