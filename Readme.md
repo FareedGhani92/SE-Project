@@ -461,17 +461,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 
-**Development Team:**
-- **Abdullah Farooq** - ML Pipeline, Feature Engineering, Model Training
-- **Huzaifa Ali Satti** - Data Collection, Preprocessing, Visualization
-- **M. Shahzil Asif** - Dashboard Development, UI/UX Design
-
-**Course Information:**
-- **CS-245 Machine Learning** 
-- **Instructor:** Mr. Usama Athar
-- **CS-366 Data Visualization**
-- **Instructor:** Mrs. Nikhar Azhar 
-- **Institution:** NUST School of Electrical Engineering and Computer Science (SEECS)
 
 **Data Sources:**
 - Open Meteo API
@@ -480,15 +469,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Contact & Support
-
-**GitHub Repository:** [master-forecaster](https://github.com/Abdullah-Farooq-5/master-forecaster)
-
-For issues or questions:
-1. Check this README thoroughly
-2. Review the **About** page in the dashboard
-3. Open an issue on GitHub
-4. Contact: chaudharyabdullah387@gmail.com
 
 ---
 
