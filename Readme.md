@@ -339,7 +339,7 @@ Linear models outperformed complex ensembles because:
 
 ```bash
 # Clone repository
-git clone https://github.com/Abdullah-Farooq-5/master-forecaster.git
+git clone https://github.com/FareedGhani92/SE-Project.git
 cd master-forecaster
 
 # Install dependencies
